@@ -505,7 +505,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OS_TMM.kicad_pro",
+    "filename": "crossover2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -659,8 +659,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "OS_TMM.kicad_sch",
-        "name": "OS_TMM",
+        "filename": "crossover2.kicad_sch",
+        "name": "crossover2",
         "uuid": "01b3b6f7-795e-446a-814b-b075cb52b6ba"
       }
     ],
